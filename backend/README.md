@@ -12,8 +12,13 @@ To start the backend server, follow these steps:
    
 3. Extract FFmpeg Build:
    - Extract the downloaded FFmpeg build to a backend directory in your project.
-
-5. Start the backend server:
+4. Add OpenAI and ElevenLabs API keys to the .env.example file.
+    - [OpenAI](https://openai.com) - Get your OpenAI API key by creating a account Here.
+    - [Eleven Labs](https://www.eleven-labs.com) - Get your Eleven Labs API key by creating a account Here.
+6. Start the backend server:
     ```
     yarn start
     ```
+7. Go to (http://localhost:3000/voices) and get voice id of Rachel and paste it on code line 15 const voiceID = "";
+
+8. Save the file and Ready to Go!
