@@ -19,6 +19,6 @@ To start the backend server, follow these steps:
     ```
     yarn start
     ```
-7. Go to (http://localhost:3000/voices) and get voice id of Rachel and paste it on code line 15 const voiceID = "";
+7. Go to (http://localhost:3000/voices) and get voice id of Rachel and paste it on code line 15 const voiceID = "" in index.js;
 
 8. Save the file and Ready to Go!
