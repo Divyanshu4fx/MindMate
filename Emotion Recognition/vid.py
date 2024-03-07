@@ -8,7 +8,6 @@ model = load_model("best_model.h5")
 emotion_labels = {0: 'angry', 1: 'disgust', 2: 'fear', 3: 'happy', 4: 'neutral', 5: 'sad', 6: 'surprise'}
 
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
-# face_cascade = cv2.CascadeClassifier(cascPath)
 
 videoCap = cv2.VideoCapture(0)
 
