@@ -20,6 +20,9 @@ The code provided in this repository is designed to be run on a Windows environm
 - [Eleven Labs](https://www.eleven-labs.com) -  Get your Eleven Labs API key by creating a account Here.
 - [Drive](https://drive.google.com/file/d/1c0sOb1EA_u7USQck8fTaQiCRJpEWEjLp/view?usp=sharing) -  download this ffmpeg build and extract it in the backend folder.
 
+## Workflow
+![Image Name](https://github.com/Divyanshu4fx/MindMate/blob/main/Sample_Videos/Workflow_diagram.png)
+
 ## New Features (Upcoming)
 
 We are continuously working on improving MindMate. Here are some features we plan to add:
