@@ -9,6 +9,7 @@ MindMate is a project aimed at providing support and resources for mental wellne
 ## Disclaimer
 
 Please note that the code provided in this repository is for development purposes only.
+Note - If yarn is not installed install it using " npm install -g yarn "
 
 ## Environment
 
