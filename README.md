@@ -31,8 +31,6 @@ We are continuously working on improving MindMate. Here are some features we pla
 
 2. **Integration of Emotion Detection with Chat Bot**: Integrate emotion detection technology with the chat bot to provide personalized responses based on the user's emotional state.
 
-3. **Character Model Based on the Gender of User**: Implement a dynamic character model that changes based on the gender of the user for a more inclusive experience.
+3. **User Chat Data Storage**: For Behavioral Analysis, Personalization, Improving User Experience, Content Optimization.
 
-4. **User Chat Data Storage**: For Behavioral Analysis, Personalization, Improving User Experience, Content Optimization.
-
-5. **Speech Input from Users**: Enable users to provide input through speech, utilizing speech recognition technology for a more natural interaction experience.
+4. **Speech Input from Users**: Enable users to provide input through speech, utilizing speech recognition technology for a more natural interaction experience.
